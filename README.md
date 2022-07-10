@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Matan</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Third year software engineering student</h3>
 
-- I'm always working on a particular project **few projects**
+- I'm always working on a particular project 
 
 - 📫 How to reach me **sofermatan123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
