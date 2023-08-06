@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">Third year software engineering student</h3>
+<h3 align="center">A software engineer specializing in mobile and Android development</h3>
 
 - I'm always working on a particular project 
 
